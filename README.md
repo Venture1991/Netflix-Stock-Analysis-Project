@@ -1,5 +1,5 @@
 # Netflix-Stock-Analysis-Project
-A brief visualization project that deals with 2017 Netflix stock data. Actions executed include:
+A brief visualization project that deals with 2017 Netflix stock data. Using Python and Jupyter, steps of this project include:
  - importing libraries
  - reading in csv files
  - inspecting and preparing data frames for analysis
